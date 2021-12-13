@@ -430,7 +430,7 @@
 
             <span class="btn-menu"><i class="fas fa-bars"></i></span>
         </div>
-        <
+        
         <div class="list-container" >
             <br>
             <ul class="lists">
